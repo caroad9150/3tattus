@@ -59,16 +59,106 @@
                     <div class="col-md-6 col-lg-4">
                         <div class="card text-white bg-success mb-3">
                             <div class="card-body">
-                                <h5 class="card-title">Artículos</h5>
-                                <p class="card-text">Administra los artículos del sitio.</p>
+                                <h5 class="card-title">Artículos de la tienda</h5>
+                                <p class="card-text">Administra los artículos de la tienda.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="card text-white bg-warning mb-3">
                             <div class="card-body">
-                                <h5 class="card-title">Configuración</h5>
-                                <p class="card-text">Configura las opciones del sitio.</p>
+                                <h5 class="card-title">Galería</h5>
+                                <p class="card-text">Administrar las fotos de la galería.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Perfiles de artistas</h5>
+                                <p class="card-text">Administrar los artistas.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Testimonios</h5>
+                                <p class="card-text">Ver testimonios.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Cuidados</h5>
+                                <p class="card-text">Administrar los cuidados.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Valoraciones</h5>
+                                <p class="card-text">Ver las valoriaciones de los artistas.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Tarjetas</h5>
+                                <p class="card-text">Administrar las tarjetas de regalo.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Ofertas y promociones</h5>
+                                <p class="card-text">Administrar las ofertas.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Membrecías </h5>
+                                <p class="card-text">Administrar las Membrecías.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Reportes de ventas</h5>
+                                <p class="card-text">Ver las ventas por mes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">Agendas</h5>
+                                <p class="card-text">Ver las citas de todos los artistas.</p>
                             </div>
                         </div>
                     </div>

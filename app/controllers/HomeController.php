@@ -5,11 +5,7 @@ class HomeController {
     //     require '../app/views/home.php';
     // }
 
-    // public function index() {
-    //     require_once '../app/views/panel.php';
-    // }
-
     public function index() {
-        require_once '../app/views/inicio.php';
+        require_once '../app/views/panel.php';
     }
 }
